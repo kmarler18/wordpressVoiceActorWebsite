@@ -1,4 +1,9 @@
-# wordpressVoiceActorWebsite
+# wordpress_VoiceActor_Website
 
-test 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+This is the website for my voice acting business. You can view the website <a href="https://voiceofkyle.wordpress.com/">here</a>.
+
+I used the Appleton theme. I replaced the theme’s standard image gallery with videos. I added an anchor element to all of the main sections of the page. This allowed for easy navigation from the nav menu.
+
+As I began to test the site across devices and browsers, I noticed the opening H2 heading was wrapping to a new line at an awkward place. I decreased the font size so that it wouldn’t wrap to a new line on smaller devices. 
+
+In the end, the site looks elegant and is fully responsive across devices. 
